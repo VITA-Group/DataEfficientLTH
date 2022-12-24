@@ -8,7 +8,7 @@
 
 <sup>1</sup>Indian Institute of Technology Madras, <sup>2</sup>University of Texas at Austin, <sup>3</sup>Google Research
 
-Accepted at NeurIPS '22 (Featured Panel)
+Accepted at NeurIPS '22 (Featured Paper)
 
 [Paper](https://openreview.net/forum?id=wfKbtSjHA6F), [Slides](https://docs.google.com/presentation/d/1gVNX23VgFRUR9e_4tHvBlMBXLg6wnMQoa_zWOri1rWM/edit?usp=sharing)
 
