@@ -1,0 +1,10 @@
+imgaug
+matplotlib
+numpy
+Pillow
+scikit_learn
+tifffile
+torch
+torch_cka
+torchsat
+torchvision
